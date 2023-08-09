@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit2kokate" alt="rohit2kokate" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **rohitkokate1163@gmail.com**
+- 📫 How to reach me **rohit2003.sanjivaniit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
